@@ -11,6 +11,6 @@ import { Component } from '@angular/core';
 export class AppComponent { 
     stringname: string;
     constructor(){
-        this.stringname = "First pipe";
+        this.stringname = "First pipes";
     }
 }
